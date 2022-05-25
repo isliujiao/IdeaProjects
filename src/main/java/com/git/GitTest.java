@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("********* add_v3");
         System.out.println("********* branch_v1");
         System.out.println("********* push_v1");
+        System.out.println("********* pull_v1");
 
     }
 }
